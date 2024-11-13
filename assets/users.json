@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "account": "jdoe@yahoo.com",
+        "password": "letmein",
+        "email": "jdoe@yahoo.com"
+    },
+    {
+        "id": 2,
+        "name": "John Caulfield",
+        "account": "jcaulfield@yahoo.com",
+        "password": "letmein",
+        "email": "jcaulfield@yahoo.com"
+    },
+    {
+        "id": 3,
+        "name": "Ronal Stropoli",
+        "email":"ron@stropoli.com",
+        "account": "ron@stropoli.com",
+        "password": "letmein"  
+    }
+]
