@@ -5,9 +5,9 @@ import { View, Text } from 'react-native';
 
 export default function HomeScreen() {
     return (
-        // <Text>Hello Ron !!!</Text>
-        <Button variant="outline">
-            <ButtonText>Press Me!!</ButtonText>
+        // <Text>Hello Ron xxx vvv!!!</Text>
+        <Button variant="solid">
+            <ButtonText>Press Me XXX!!</ButtonText>
         </Button>
 
     );
